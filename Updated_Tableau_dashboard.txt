@@ -10,3 +10,8 @@ Here the updates to expect in updated tableau dashboard!
 Issues: Measured values 'Text Label' needs to be fixed 
 ---> Will be updating it soon with more insights!
 Link: https://public.tableau.com/app/profile/dharma2519/viz/2011_dataSciencemanagment/Top25Team_API
+
+
+Reent updates: 
+After removing the uncenesary columns in the given data, we are able to find some insights that enabled us to understand and develop a better model than before.. for now, the new updated dashboard gives us to the top teams performances:
+https://public.tableau.com/app/profile/dharma2519/viz/NEW_data/Sheet1
